@@ -20,6 +20,10 @@ header>div nav{
     font-size: 1.4rem;
 }
 
+h1 {
+    margin-bottom: 2rem;
+}
+
 h3, h1{
     color: pink;
 }
